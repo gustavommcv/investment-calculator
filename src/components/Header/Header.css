@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+  
+    padding: 3rem 3rem 2rem 3rem;
+  
+    color: #E1EEEB;
+}
+
+.header__logo {
+    height: 5rem;
+    width: 5rem;
+}
+
+.header__title {
+    font-weight: 500;
+}
