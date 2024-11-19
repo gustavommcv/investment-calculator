@@ -1,0 +1,17 @@
+table {
+    margin: 2rem auto;
+
+    color: #a4c5bc;
+    font-size: .9rem;
+}
+
+th, td {
+    padding: .5rem .5rem;
+    text-align: right;
+}
+
+th {
+    color: #69b99a;
+    font-weight: 500;
+}
+
